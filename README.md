@@ -1,2 +1,2 @@
 # Python-Hello_World
-Python: Hello World
+Python: A simple "Hello World" program
